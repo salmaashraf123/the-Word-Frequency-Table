@@ -1,0 +1,4 @@
+This is a simple test file. It includes various words, words that repeat - and words that don't.
+Does it handle hyphenated-words correctly? It should!
+Let's test with punctuation, symbols: @, #, and others!
+Words, words... and more words.
